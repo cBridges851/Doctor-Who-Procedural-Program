@@ -1,0 +1,13 @@
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\bin\Debug\netcoreapp3.1\Doctor Who Quiz.exe
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\bin\Debug\netcoreapp3.1\Doctor Who Quiz.deps.json
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\bin\Debug\netcoreapp3.1\Doctor Who Quiz.runtimeconfig.json
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\bin\Debug\netcoreapp3.1\Doctor Who Quiz.runtimeconfig.dev.json
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\bin\Debug\netcoreapp3.1\Doctor Who Quiz.dll
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\bin\Debug\netcoreapp3.1\Doctor Who Quiz.pdb
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\obj\Debug\netcoreapp3.1\Doctor Who Quiz.csprojAssemblyReference.cache
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\obj\Debug\netcoreapp3.1\Doctor Who Quiz.AssemblyInfoInputs.cache
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\obj\Debug\netcoreapp3.1\Doctor Who Quiz.AssemblyInfo.cs
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\obj\Debug\netcoreapp3.1\Doctor Who Quiz.csproj.CoreCompileInputs.cache
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\obj\Debug\netcoreapp3.1\Doctor Who Quiz.dll
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\obj\Debug\netcoreapp3.1\Doctor Who Quiz.pdb
+C:\Users\christa\Documents\Learning Stuff\OOP\Doctor Who Quiz\Doctor Who Quiz\obj\Debug\netcoreapp3.1\Doctor Who Quiz.genruntimeconfig.cache
